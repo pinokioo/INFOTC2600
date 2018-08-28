@@ -9,7 +9,7 @@
  [ *Google the recipe* ](https://www.google.com/)
     
   
- ![Picture](INFOTC2600/1478289713201.jpeg)
+ ![Picture](https://github.com/pinokioo/INFOTC2600/blob/master/1478289713201.jpeg?raw=true)
     
     
 ![Pictures](http://images.media-allrecipes.com/userphotos/960x960/4552619.jpg)
