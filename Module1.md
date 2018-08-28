@@ -9,7 +9,7 @@
  [ *Google the recipe* ](https://www.google.com/)
     
   
- ![Picture](https://github.com/pinokioo/CS_4320/blob/master/yidalimian.jpeg?raw=true)
+ ![Picture](INFOTC2600/1478289713201.jpeg)
     
     
 ![Pictures](http://images.media-allrecipes.com/userphotos/960x960/4552619.jpg)
