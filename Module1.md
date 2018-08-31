@@ -30,7 +30,7 @@
 | **Reason** |The answer to the question “Why do we eat?” seems an obvious one—to obtain the energy we need to support our everyday activities and, ultimately, promote our survival.|
 | **Concern** |  many of our modern day food choices suggest another answer—one that actually stands to threaten our health and well being |
 | **why** |A quick comparison between the food landscape of our ancestors and the current environment shows dramatic changes on both sides of the energy balance equation|
-| **How** |Long and loose|Narrow and tight|
+| **How** |cannot just pick what you want, need a balance|Yes|
 | **healthy** |The food industry creates and markets food and beverage products that are engineered to be both desirable and inexpensive. |
 
 # **It is**
